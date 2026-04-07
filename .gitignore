@@ -1,0 +1,4 @@
+fortune_wheel_save.json
+__pycache__/
+*.pyc
+.env
